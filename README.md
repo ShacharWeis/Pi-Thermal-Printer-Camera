@@ -1,5 +1,5 @@
 
-== RaspberryPi powered, Instant Camera with a Thermal Printer and a 3D printed case 
+=== An instant camera based on RaspberryPi and a Thermal Printer, in a 3D printed case
 
 
 Video :
@@ -29,9 +29,9 @@ https://learn.adafruit.com/pi-thermal-printer<br>
 Follow tutorial to intall printer libraries.<br>
 <br>
 About the battery, I used a beefy 3 cell 2000mah bettery, and the camera would run for 3-4 hours off that. The design does not include any method to charge the battery, so you might want to add that or get a lipo charger.
-<br>
+<br><br>
 WARNING - Regular Thermal paper contains insane amounts of Bisphenol-A, which is an Endocrine Disruptor. This is especially bad for young children. Please invest in some BPA-free thermal paper. They do exist.
-<br>
+<br><br><br>
 Have fun !
 
 
