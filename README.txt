@@ -35,4 +35,7 @@ WARNING - Regular Thermal paper contains insane amounts of Bisphenol-A, which is
 Have fun !
 
 
+![alt tag](https://raw.githubusercontent.com/ShacharWeis/Pi-Thermal-Printer-Camera/master/Exploded%20View.PNG)
+
+
 
