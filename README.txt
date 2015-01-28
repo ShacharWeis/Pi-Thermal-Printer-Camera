@@ -19,8 +19,14 @@ Switching power regulator, like the LM2596HV
 Total cost is about $100
 
 This project is a work-in-progress. Expect things to not fit perfectly and tinkering is required to get it going.
-The code was based on Adafruit's camera example - https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam/pi-setup
-Follow that tutorial to install camera libraries.
+
+The code was based on Adafruit's camera example
+https://learn.adafruit.com/diy-wifi-raspberry-pi-touch-cam/pi-setup
+Follow tutorial to install camera libraries.
+
+And AdaFruit's thermal paper printer
+https://learn.adafruit.com/pi-thermal-printer
+Follow tutorial to intall printer libraries.
 
 About the battery, I used a beefy 3 cell 2000mah bettery, and the camera would run for 3-4 hours off that. The design does not include any method to charge the battery, so you might want to add that or get a lipo charger.
 
